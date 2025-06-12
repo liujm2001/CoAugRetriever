@@ -31,4 +31,3 @@ bash ./scripts/run_test.sh
 ## todo
 readme
 license
-prompt_q k dense
