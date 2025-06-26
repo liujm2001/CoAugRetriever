@@ -1,5 +1,7 @@
 # CoAugRetriever
-Official Code for "Harnessing the Power of Reinforcement Learning for Language-Model-Based Information Retriever via Query-Document Co-Augmentation" [ArXiv Preprint](https://arxiv.org/abs/2506.18670)
+Official Code for "Harnessing the Power of Reinforcement Learning for Language-Model-Based Information Retriever via Query-Document Co-Augmentation" 
+
+[ArXiv Preprint](https://arxiv.org/abs/2506.18670)
 
 ## Installation
 ```
